@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from 'styled-components'
 
 const GlobalStyles = createGlobalStyle`
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -72,6 +72,6 @@ html {
   --color-text: var(--color-gray-1000);
   --color-background: white;
 }
-`;
+`
 
-export default GlobalStyles;
+export default GlobalStyles
