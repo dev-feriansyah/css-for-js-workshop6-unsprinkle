@@ -15,10 +15,10 @@ const Hero = () => {
         />
         <HeroImage
           src="/images/hero-img.jpg"
-          alt="Hero image: cat staring at you"
+          alt="Hero image: A cat staring at you with black background"
         />
       </picture>
-      <Swoop src="/swoop.svg" />
+      <Swoop src="/swoop.svg" alt="" />
     </Wrapper>
   )
 }
